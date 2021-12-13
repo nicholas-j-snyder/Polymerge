@@ -2,12 +2,9 @@
 toc: true
 layout: post
 description: Polymerge makes use of numerous terms, concepts and phrases that might to new players seem obtuse or hard to understand. In this section we will briefly cover some of the concepts that will be encountered in play as well as ideas, entities and locations that might not be immediately understood.
-categories: [markdown][glossary]
+categories: [markdown]
 title: Glossolalia
 ---
-## What this is:
-
-*POLYMERGE* is a TTRPG/world inspired by the works of the likes of Tsumoto Nihei, Giger and countless others. This is a dark far future sci-fantasy world that takes place within our Solar System after it has been radically altered by mankind for thousands of years and then left to stagnate into a new dark age that has lasted for twenty-thousand years. In it players will adventure through Arcology Wilds, vast living cityscapes that grow and change of their own accord that have become inhabited by Auto-Fauna  
 
 # Glossolalia: 
 

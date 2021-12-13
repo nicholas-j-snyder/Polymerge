@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Polymerge
+description: POLYMERGE is a TTRPG/world inspired by the works of the likes of Tsumoto Nihei, Giger and countless others. This is a dark far future sci-fantasy world that takes place within our Solar System
 github_username: nicholas-j-snyder
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "Polymerge"
